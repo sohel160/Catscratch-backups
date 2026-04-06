@@ -29,7 +29,7 @@ proxies:
   port: 64182
 
 - name: proxy2
-  type: socks5
+  type: http
   server: 144.48.108.122
   port: 5452
   
