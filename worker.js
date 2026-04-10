@@ -37,13 +37,13 @@ proxies:
 
 - name: proxy1
   type: http
-  server: 
-  port: 
+  server: 180.149.234.128
+  port: 9883
 
 - name: proxy2
   type: http
-  server: 
-  port: 
+  server: 103.142.184.33
+  port: 9893
 
 `
 
