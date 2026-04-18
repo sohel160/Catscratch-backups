@@ -37,8 +37,8 @@ proxies:
 
 - name: proxy1
   type: http
-  server: 103.69.150.116
-  port: 9854
+  server: 27.147.221.155
+  port: 27271
 
 - name: proxy2
   type: http
@@ -54,7 +54,7 @@ proxies:
   port: 9859
 - name: proxy5
   type: http
-  server: 27.147.222.175
+  server: 27.147.195.166
   port: 27271
 - name: proxy6
   type: http
