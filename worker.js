@@ -36,9 +36,9 @@ export default {
 proxies:
 
 - name: proxy1
-  type: http
-  server: 27.147.221.155
-  port: 27271
+  type: socks5
+  server: 121.200.62.73
+  port: 64182
 
 - name: proxy2
   type: http
