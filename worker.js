@@ -37,8 +37,10 @@ proxies:
 
 - name: proxy1
   type: socks5
-  server: 121.200.62.73
-  port: 64182
+  server: 103.153.111.68
+  port: 9168
+  username: ua3ad11914430
+  password: AfyUV2zTOJ39DJi7
 
 - name: proxy2
   type: http
