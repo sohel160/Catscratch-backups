@@ -57,7 +57,7 @@ proxies:
   port: 64182
 - name: renew again
   type: socks5
-  server: 121.200.62.14
+  server: 121.200.62.1
   port: 64182
   
 
