@@ -35,29 +35,29 @@ export default {
     const proxies = `
 proxies:
 
-- name: free1
+- name: renew
   type: socks5
-  server: 121.200.62.73
+  server: 121.200.62.7
   port: 64182
-- name: free2
+- name: buy from Omar
   type: socks5
-  server: 121.200.62.253
+  server: 121.200.62.25
   port: 64182
-- name: free3
+- name: purchase
   type: socks5
-  server: 121.200.62.242
+  server: 121.200.62.24
   port: 64182
-- name: free4
+- name: pay again
   type: socks5
-  server: 121.200.62.237
+  server: 121.200.62.23
   port: 64182
-- name: free5
+- name: contact omar
   type: socks5
-  server: 121.200.62.81
+  server: 121.200.62.8
   port: 64182
-- name: free6
+- name: renew again
   type: socks5
-  server: 121.200.62.142
+  server: 121.200.62.14
   port: 64182
   
 
