@@ -35,10 +35,10 @@ export default {
     const proxies = `
 proxies:
 
-- name: proxy1
+- name: inbox_@iamnoobss
   type: http
-  server: 
-  port: 
+  server: 1.1.1.1
+  port: 1080
 
 
 `
